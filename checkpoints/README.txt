@@ -1,0 +1,1 @@
+Download the trained model from Zenodo(https://doi.org/10.5281/zenodo.8265821).
